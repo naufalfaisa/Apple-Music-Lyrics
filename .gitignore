@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache folders
+cache/
+
+# Downloaded lyrics (runtime result)
+lyrics_downloaded/
+
+# VSCode settings (opsional, kalau pakai VSCode)
+.vscode/
+
+# Local config (sensitive)
+config.bin
